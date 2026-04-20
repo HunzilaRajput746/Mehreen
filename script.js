@@ -3,8 +3,8 @@
 // ===================================
 const CONFIG = {
     // Replace this with your actual Gemini API key
-    GEMINI_API_KEY: 'AIzaSyAxCaPHQG21uhbVSYPdCUklIKHfilZKTAk', // Paste your API key here
-    GEMINI_API_URL: 'https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent'
+    GEMINI_API_KEY: 'AIzaSyAxCaPHQG21ujlkhhbVSYPdCUklIKHfilZKTAk', // Paste your API key here
+    GEMINI_API_URL: 'https://generativjelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent'
 };
 
 // Portfolio data for AI context
