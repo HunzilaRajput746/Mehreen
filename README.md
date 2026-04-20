@@ -1,4 +1,4 @@
-# Hunzila Nisar - Portfolio Website
+# Mehreen Nisar - Portfolio Website
 
 A stunning, professional portfolio website showcasing AI/ML Engineering and Full-Stack Development expertise with cutting-edge animations, dark cyberpunk theme, and AI-powered chatbot.
 
@@ -211,6 +211,6 @@ This portfolio is created for Hunzila Nisar. Feel free to use it as inspiration 
 
 ---
 
-**Built with ❤️ by Hunzila Nisar**
+**Built with ❤️ by Mehreen Nisar**
 
 **Note**: Remember to replace the Gemini API key with your actual key before deploying!
